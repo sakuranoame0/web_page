@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+.required {
+  background-color: #ea5308;
+  font-size: 12px;
+  color: #fff;
+  box-sizing: border-box;
+}
